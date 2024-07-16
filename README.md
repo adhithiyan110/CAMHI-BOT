@@ -3,6 +3,7 @@
 ```bash
 sudo apt install gazebo
 sudo apt install ros-foxy-gazebo-ros-pkgs
+sudo apt install ros-foxy-twist-mux
 ```
 ```bash
 sudo apt install ros-foxy-xacro
