@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/1753dfdf-e155-4bd2-8798-309e448532fa" width="300"/>
 
 ## Working Demo of Final Product
-https://github.com/user-attachments/assets/6084e295-260e-44c3-9300-8d37cada00cc
+https://github.com/user-attachments/assets/96d7b42f-637e-46dc-a6ae-6c6e2171f884
 
 
 ## General Installation 
