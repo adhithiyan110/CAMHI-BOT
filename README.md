@@ -1,8 +1,19 @@
+<h1 align ="center"> An Indoor Navigation Robot using SLAM </h1>
+
+
+## Introduction
+  The inclusion of automation in every fields has also led to it's place in navigation and here is a sample project of the same using components like Jetson Orin, Arduino, Motors and Encoders, Lidar etc. The main objective of this project is two phased. One involves the mapping of the surroundings with the use of lidars and SLAM. The second phase involves the Localising of the robot or in layman's terms ,finding the position of the robot relative to it's surroundings. Then it moves towards a destination given as input by finding the shortest path and avoiding potential obstacles along the way. The following are the steps and packages needed to replicate the project.
+  
+
+## Snaps of Final Product
 <img src="https://github.com/user-attachments/assets/5a5df576-4ea9-4a3a-a857-3b1e8bf0aea4" width="300"/>
 <img src="https://github.com/user-attachments/assets/1753dfdf-e155-4bd2-8798-309e448532fa" width="300"/>
 
+## Working Demo of Final Product
+https://github.com/user-attachments/assets/96d7b42f-637e-46dc-a6ae-6c6e2171f884
 
-## general installation 
+
+## General Installation 
 
 ```bash
 sudo apt install gazebo
